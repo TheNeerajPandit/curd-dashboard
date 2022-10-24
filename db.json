@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Himani Susling",
+      "username": "himaning",
+      "email": "gajendra.belbase@khatri.org.np",
+      "address": "Bharatpur-02, Chitwan",
+      "phone": "01-5982752",
+      "website": "himaning.com.np"
+    },
+    {
+      "id": 2,
+      "name": "Adish Chand",
+      "username": "adishcand",
+      "email": "regmi.ujjwal@mishra.com",
+      "address": "Tokha-2, Kathmandu",
+      "phone": "01-4618773",
+      "website": "theadishcand.com"
+    },
+    {
+      "id": 3,
+      "name": "Suraj Pandey",
+      "username": "suradey",
+      "email": "urbasi26@shahi.com.np",
+      "address": "Kathmandu-10",
+      "phone": "9803897153",
+      "website": "suradey.info"
+    },
+    {
+      "id": 5,
+      "name": "Dhanvi  Prajapati",
+      "username": "dhanati",
+      "email": "ashutosh57@byanjankar.com",
+      "address": "Bharatpur-22, Chitwan",
+      "phone": "9849044238",
+      "website": "dhanati.info"
+    },
+    {
+      "id": 6,
+      "name": "Prahlad Joshi",
+      "username": "prahshi",
+      "email": "dhamla.amrit@puri.org.np",
+      "address": "Bharatpur-10, Chitwan",
+      "phone": "9803180293",
+      "website": "prahshi.com.np"
+    },
+    {
+      "id": 7,
+      "name": "Garima  Bhandari",
+      "username": "garimri",
+      "email": "ranju.limbu@lama.com.np",
+      "address": "Bharatpur-22, Chitwan",
+      "phone": "01-4719075",
+      "website": "garima.com.np"
+    }
+  ]
+}
